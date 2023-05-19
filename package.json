@@ -11,6 +11,10 @@
   },
   "devDependencies": {
     "@types/node": "^18",
+    "@types/uuid": "^9.0.1",
     "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
   }
 }
